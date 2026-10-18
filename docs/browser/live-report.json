@@ -1,0 +1,48 @@
+{
+  "base": "http://127.0.0.1:5173",
+  "live": true,
+  "results": [
+    {
+      "name": "No horizontal overflow at 320, 360, 768 and 1280",
+      "passed": true
+    },
+    {
+      "name": "Theme toggle and persisted dark theme",
+      "passed": true
+    },
+    {
+      "name": "Mobile menu keyboard dismissal and focus return",
+      "passed": true
+    },
+    {
+      "name": "Knowledge library and explicit document approval",
+      "passed": true
+    },
+    {
+      "name": "Real API abstention and history persistence",
+      "passed": true
+    },
+    {
+      "name": "Clear history requires confirmation; dialog returns focus",
+      "passed": true
+    },
+    {
+      "name": "Backend failure message, retained retry control, no stuck spinner",
+      "passed": true
+    },
+    {
+      "name": "Live local RAG, streaming completion and expandable citations",
+      "passed": true
+    },
+    {
+      "name": "Stop aborts a live generation and permits a new conversation",
+      "passed": true
+    },
+    {
+      "name": "No browser errors or external runtime requests",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "external": []
+}

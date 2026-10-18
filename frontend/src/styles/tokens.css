@@ -1,0 +1,44 @@
+:root {
+  color-scheme: light;
+  --font-body: "Segoe UI Variable", "Segoe UI", Arial, sans-serif;
+  --font-data: "Cascadia Code", Consolas, monospace;
+  --surface: #f7f9fc;
+  --raised: #ffffff;
+  --subtle: #eef2f7;
+  --text: #18283f;
+  --muted: #637087;
+  --action: #285bd5;
+  --action-hover: #214db8;
+  --action-wash: #eaf0fd;
+  --inverse: #ffffff;
+  --border: #dfe5ee;
+  --control: #a2afc1;
+  --line: #c8d5eb;
+  --focus: #2865ec;
+  --sidebar: #111e30;
+  --warning: #77501a;
+  --warning-wash: #fff5e5;
+  --error: #ac303c;
+  --error-wash: #fff0f1;
+}
+[data-theme="dark"] {
+  color-scheme: dark;
+  --surface: #121b29;
+  --raised: #192536;
+  --subtle: #213047;
+  --text: #e5ebf5;
+  --muted: #a3b2c8;
+  --action: #8daeff;
+  --action-hover: #adc4ff;
+  --action-wash: #243754;
+  --inverse: #101d32;
+  --border: #2f3f55;
+  --control: #64748e;
+  --line: #425574;
+  --focus: #a4c0ff;
+  --sidebar: #0c1522;
+  --warning: #f2c886;
+  --warning-wash: #342b20;
+  --error: #ffadb4;
+  --error-wash: #38232e;
+}

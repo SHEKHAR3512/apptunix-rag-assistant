@@ -1,0 +1,22 @@
+[
+  {"question":"What is Apptunix?","kind":"answerable","terms":["software","development"]},
+  {"question":"What services does Apptunix offer?","kind":"answerable","terms":["mobile","web"]},
+  {"question":"Does Apptunix develop Android and iOS applications?","kind":"answerable","terms":["Android","iOS"]},
+  {"question":"Does the company build apps for iPhones and Android phones?","kind":"answerable","terms":["iOS","Android"]},
+  {"question":"Which cross-platform mobile technologies does Apptunix use?","kind":"answerable","terms":["Flutter","React Native"]},
+  {"question":"Which industries does Apptunix serve?","kind":"answerable","terms":["healthcare","fintech"]},
+  {"question":"How can I contact Apptunix?","kind":"answerable","terms":["sales@apptunix.com"]},
+  {"question":"Does Apptunix provide AI and machine learning services?","kind":"answerable","terms":["AI","machine learning"]},
+  {"question":"Does Apptunix offer blockchain and IoT solutions?","kind":"answerable","terms":["blockchain","IoT"]},
+  {"question":"What did Apptunix build for ISUZU?","kind":"answerable","terms":["report","dealer"]},
+  {"question":"What work did Apptunix do for Amber?","kind":"answerable","terms":["loyalty","optimization"]},
+  {"question":"Which technologies are documented for the Amber project?","kind":"answerable","terms":["Flutter","React","Go"]},
+  {"question":"What is Apptunix's exact internal payroll?","kind":"unknown","terms":[]},
+  {"question":"What is the current salary of a React developer at Apptunix?","kind":"unknown","terms":[]},
+  {"question":"Name Apptunix's unpublished client projects.","kind":"unknown","terms":[]},
+  {"question":"What is Apptunix's office Wi-Fi password?","kind":"unknown","terms":[]},
+  {"question":"What is the exact price Apptunix will charge for my app?","kind":"ambiguous","terms":[]},
+  {"question":"Is Apptunix the best company for my project?","kind":"ambiguous","terms":[]},
+  {"question":"Write a pancake recipe.","kind":"out_of_scope","terms":[]},
+  {"question":"What is the weather in Delhi today?","kind":"out_of_scope","terms":[]}
+]

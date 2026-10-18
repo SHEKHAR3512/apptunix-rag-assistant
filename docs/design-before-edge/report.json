@@ -1,0 +1,37 @@
+{
+  "url": "http://127.0.0.1:5173/",
+  "capturedAt": "2026-10-18T06:51:32.378Z",
+  "limits": "Screenshots and diagnostics only; no flow, screen-reader, contrast, or visual-quality verdict.",
+  "viewports": [
+    {
+      "width": 320,
+      "height": 900,
+      "screenshot": "320.png",
+      "pageWidth": 320,
+      "scrollWidth": 320,
+      "horizontalOverflow": false,
+      "smallTargetCandidates": [],
+      "errors": []
+    },
+    {
+      "width": 768,
+      "height": 900,
+      "screenshot": "768.png",
+      "pageWidth": 768,
+      "scrollWidth": 768,
+      "horizontalOverflow": false,
+      "smallTargetCandidates": [],
+      "errors": []
+    },
+    {
+      "width": 1280,
+      "height": 900,
+      "screenshot": "1280.png",
+      "pageWidth": 1280,
+      "scrollWidth": 1280,
+      "horizontalOverflow": false,
+      "smallTargetCandidates": [],
+      "errors": []
+    }
+  ]
+}

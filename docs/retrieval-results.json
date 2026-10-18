@@ -1,0 +1,496 @@
+[
+  {
+    "question": "What is Apptunix?",
+    "kind": "answerable",
+    "results": [
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.6759,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.6504,
+        "passage": "## Identity and company overview\n\n**Source:** https://www.apptunix.com/ (official homepage; reviewed 2026-10-18)\n\nApptunix describes itself as an AI product engineering and software development company. Its official homepage says it builds production-grade digital systems and reports having served more than 500 global brands. These counts are company-reported marketing claims and can change; attribute them to Apptunix, not an independent audit."
+      },
+      {
+        "title": "Apptunix company overview",
+        "similarity": 0.6398,
+        "passage": "# Apptunix company overview\n\nApptunix describes its business as AI product engineering and software development. It builds digital systems for businesses. Its homepage presents software engineering, mobile applications, AI development, enterprise solutions and blockchain work.\n\n## Mobile and software technologies\n\nThe homepage lists iOS, Android, Flutter, React Native and progressive web apps as mobile expertise. Its technology section includes Python, Node.js, Java, Go and FastAPI for backend work, and ReactJS, Angular, Next.js, Vue.js and TypeScript for frontend work. These are company-listed capabilities, not a promise that every project uses every technology.\n\n## Evidence boundaries\n\nThe homepage contains company-reported marketing metrics. This summary intentionally omits exact staff, delivery and revenue statistics because they change and are not independently audited. The knowledge assistant is an independent demo and does not represent Apptunix support."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.6077,
+        "passage": "## Industries and example work\n\n**Source:** https://www.apptunix.com/faq/ (official FAQ; reviewed 2026-10-18)\n\nThe company FAQ says its development work spans healthcare, fintech, e-commerce, gaming, logistics and other industries. It says selected public case studies are shown on its website, while some project details remain confidential under nondisclosure agreements. Do not invent names or outcomes for projects that are not documented in public case studies."
+      }
+    ]
+  },
+  {
+    "question": "What services does Apptunix offer?",
+    "kind": "answerable",
+    "results": [
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.7584,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "Apptunix services and collaboration",
+        "similarity": 0.7034,
+        "passage": "# Apptunix services and collaboration\n\nThe About page's service FAQ describes these Apptunix services:\n\n- Custom mobile applications and web applications.\n- Artificial intelligence and machine learning solutions.\n- Blockchain technology and Internet of Things solutions.\n- UI/UX design.\n- Enterprise software development.\n- Digital transformation.\n\nThe page groups its FAQs into company information, process and collaboration, pricing and engagement models, and confidentiality and security. The public page is not an internal policy handbook or an individual project contract. Specific commercial commitments require a current agreement with Apptunix."
+      },
+      {
+        "title": "Healthcare software services",
+        "similarity": 0.6711,
+        "passage": "# Healthcare software services\n\nApptunix's healthcare page advertises software services for clinics, hospitals and health startups. Categories include AI-enabled healthcare applications, wearable integrations, electronic health and medical records (EHR/EMR), IoT-connected healthcare applications, on-demand doctor applications and pharmacy management systems.\n\nThe page describes appointment booking and video consultations for doctor applications. For EHR/EMR work it describes interoperability using HL7/FHIR. It also advertises cloud-based, AR/VR and blockchain healthcare solutions. These are public service descriptions and do not establish that a particular customer deployment has been independently certified or clinically validated."
+      },
+      {
+        "title": "Android app development",
+        "similarity": 0.6673,
+        "passage": "# Android app development\n\nApptunix offers Android application development. Its Android service page specifically describes writing application code with Java and Kotlin, covering startup MVPs and enterprise solutions. The service process includes quality assurance and testing.\n\nThe page mentions work across healthcare, finance and e-commerce. These statements describe advertised services rather than commitments about an individual app's cost, timetable, performance or security certification."
+      }
+    ]
+  },
+  {
+    "question": "Does Apptunix develop Android and iOS applications?",
+    "kind": "answerable",
+    "results": [
+      {
+        "title": "iOS and iPhone app development",
+        "similarity": 0.7178,
+        "passage": "# iOS and iPhone app development\n\nApptunix offers custom iOS application development for startups, small and medium businesses, and enterprises. Its iPhone technology FAQ lists Swift, Objective-C, SwiftUI, UIKit, Firebase and cloud integrations.\n\nThe page says the team assists with App Store submission, testing and launch preparation. It also describes integrating AI, machine learning, IoT and chatbots into iOS applications. This is a description of company-advertised services, not a guarantee of Apple approval or a fixed delivery date."
+      },
+      {
+        "title": "Apptunix industries and public project FAQs",
+        "similarity": 0.702,
+        "passage": "# Apptunix industries and public project FAQs\n\nThe official FAQ names healthcare, fintech, e-commerce, real estate, gaming, logistics, travel and hospitality, food delivery, education and on-demand services among Apptunix's industries.\n\nApptunix says some project information is protected by nondisclosure agreements; selected public case studies are available on its website. A public portfolio is not a complete list of all customers or confidential engagements.\n\nThe FAQ says Apptunix develops for both iOS and Android. It names Swift and Objective-C for native iOS, Kotlin and Java for native Android, and Flutter and React Native for cross-platform development.\n\nFor delivery methods, the FAQ describes predominantly agile development with iterations and client feedback, while noting that traditional approaches can also be accommodated."
+      },
+      {
+        "title": "Android app development",
+        "similarity": 0.6943,
+        "passage": "# Android app development\n\nApptunix offers Android application development. Its Android service page specifically describes writing application code with Java and Kotlin, covering startup MVPs and enterprise solutions. The service process includes quality assurance and testing.\n\nThe page mentions work across healthcare, finance and e-commerce. These statements describe advertised services rather than commitments about an individual app's cost, timetable, performance or security certification."
+      },
+      {
+        "title": "Apptunix company overview",
+        "similarity": 0.6858,
+        "passage": "# Apptunix company overview\n\nApptunix describes its business as AI product engineering and software development. It builds digital systems for businesses. Its homepage presents software engineering, mobile applications, AI development, enterprise solutions and blockchain work.\n\n## Mobile and software technologies\n\nThe homepage lists iOS, Android, Flutter, React Native and progressive web apps as mobile expertise. Its technology section includes Python, Node.js, Java, Go and FastAPI for backend work, and ReactJS, Angular, Next.js, Vue.js and TypeScript for frontend work. These are company-listed capabilities, not a promise that every project uses every technology.\n\n## Evidence boundaries\n\nThe homepage contains company-reported marketing metrics. This summary intentionally omits exact staff, delivery and revenue statistics because they change and are not independently audited. The knowledge assistant is an independent demo and does not represent Apptunix support."
+      }
+    ]
+  },
+  {
+    "question": "Does the company build apps for iPhones and Android phones?",
+    "kind": "answerable",
+    "results": [
+      {
+        "title": "iOS and iPhone app development",
+        "similarity": 0.7112,
+        "passage": "# iOS and iPhone app development\n\nApptunix offers custom iOS application development for startups, small and medium businesses, and enterprises. Its iPhone technology FAQ lists Swift, Objective-C, SwiftUI, UIKit, Firebase and cloud integrations.\n\nThe page says the team assists with App Store submission, testing and launch preparation. It also describes integrating AI, machine learning, IoT and chatbots into iOS applications. This is a description of company-advertised services, not a guarantee of Apple approval or a fixed delivery date."
+      },
+      {
+        "title": "Apptunix company overview",
+        "similarity": 0.6871,
+        "passage": "# Apptunix company overview\n\nApptunix describes its business as AI product engineering and software development. It builds digital systems for businesses. Its homepage presents software engineering, mobile applications, AI development, enterprise solutions and blockchain work.\n\n## Mobile and software technologies\n\nThe homepage lists iOS, Android, Flutter, React Native and progressive web apps as mobile expertise. Its technology section includes Python, Node.js, Java, Go and FastAPI for backend work, and ReactJS, Angular, Next.js, Vue.js and TypeScript for frontend work. These are company-listed capabilities, not a promise that every project uses every technology.\n\n## Evidence boundaries\n\nThe homepage contains company-reported marketing metrics. This summary intentionally omits exact staff, delivery and revenue statistics because they change and are not independently audited. The knowledge assistant is an independent demo and does not represent Apptunix support."
+      },
+      {
+        "title": "Apptunix industries and public project FAQs",
+        "similarity": 0.6824,
+        "passage": "# Apptunix industries and public project FAQs\n\nThe official FAQ names healthcare, fintech, e-commerce, real estate, gaming, logistics, travel and hospitality, food delivery, education and on-demand services among Apptunix's industries.\n\nApptunix says some project information is protected by nondisclosure agreements; selected public case studies are available on its website. A public portfolio is not a complete list of all customers or confidential engagements.\n\nThe FAQ says Apptunix develops for both iOS and Android. It names Swift and Objective-C for native iOS, Kotlin and Java for native Android, and Flutter and React Native for cross-platform development.\n\nFor delivery methods, the FAQ describes predominantly agile development with iterations and client feedback, while noting that traditional approaches can also be accommodated."
+      },
+      {
+        "title": "Android app development",
+        "similarity": 0.6719,
+        "passage": "# Android app development\n\nApptunix offers Android application development. Its Android service page specifically describes writing application code with Java and Kotlin, covering startup MVPs and enterprise solutions. The service process includes quality assurance and testing.\n\nThe page mentions work across healthcare, finance and e-commerce. These statements describe advertised services rather than commitments about an individual app's cost, timetable, performance or security certification."
+      }
+    ]
+  },
+  {
+    "question": "Which cross-platform mobile technologies does Apptunix use?",
+    "kind": "answerable",
+    "results": [
+      {
+        "title": "Apptunix industries and public project FAQs",
+        "similarity": 0.6703,
+        "passage": "# Apptunix industries and public project FAQs\n\nThe official FAQ names healthcare, fintech, e-commerce, real estate, gaming, logistics, travel and hospitality, food delivery, education and on-demand services among Apptunix's industries.\n\nApptunix says some project information is protected by nondisclosure agreements; selected public case studies are available on its website. A public portfolio is not a complete list of all customers or confidential engagements.\n\nThe FAQ says Apptunix develops for both iOS and Android. It names Swift and Objective-C for native iOS, Kotlin and Java for native Android, and Flutter and React Native for cross-platform development.\n\nFor delivery methods, the FAQ describes predominantly agile development with iterations and client feedback, while noting that traditional approaches can also be accommodated."
+      },
+      {
+        "title": "Apptunix company overview",
+        "similarity": 0.6549,
+        "passage": "# Apptunix company overview\n\nApptunix describes its business as AI product engineering and software development. It builds digital systems for businesses. Its homepage presents software engineering, mobile applications, AI development, enterprise solutions and blockchain work.\n\n## Mobile and software technologies\n\nThe homepage lists iOS, Android, Flutter, React Native and progressive web apps as mobile expertise. Its technology section includes Python, Node.js, Java, Go and FastAPI for backend work, and ReactJS, Angular, Next.js, Vue.js and TypeScript for frontend work. These are company-listed capabilities, not a promise that every project uses every technology.\n\n## Evidence boundaries\n\nThe homepage contains company-reported marketing metrics. This summary intentionally omits exact staff, delivery and revenue statistics because they change and are not independently audited. The knowledge assistant is an independent demo and does not represent Apptunix support."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.6192,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "iOS and iPhone app development",
+        "similarity": 0.595,
+        "passage": "# iOS and iPhone app development\n\nApptunix offers custom iOS application development for startups, small and medium businesses, and enterprises. Its iPhone technology FAQ lists Swift, Objective-C, SwiftUI, UIKit, Firebase and cloud integrations.\n\nThe page says the team assists with App Store submission, testing and launch preparation. It also describes integrating AI, machine learning, IoT and chatbots into iOS applications. This is a description of company-advertised services, not a guarantee of Apple approval or a fixed delivery date."
+      }
+    ]
+  },
+  {
+    "question": "Which industries does Apptunix serve?",
+    "kind": "answerable",
+    "results": [
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.7499,
+        "passage": "## Industries and example work\n\n**Source:** https://www.apptunix.com/faq/ (official FAQ; reviewed 2026-10-18)\n\nThe company FAQ says its development work spans healthcare, fintech, e-commerce, gaming, logistics and other industries. It says selected public case studies are shown on its website, while some project details remain confidential under nondisclosure agreements. Do not invent names or outcomes for projects that are not documented in public case studies."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.7185,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "Apptunix industries and public project FAQs",
+        "similarity": 0.6801,
+        "passage": "# Apptunix industries and public project FAQs\n\nThe official FAQ names healthcare, fintech, e-commerce, real estate, gaming, logistics, travel and hospitality, food delivery, education and on-demand services among Apptunix's industries.\n\nApptunix says some project information is protected by nondisclosure agreements; selected public case studies are available on its website. A public portfolio is not a complete list of all customers or confidential engagements.\n\nThe FAQ says Apptunix develops for both iOS and Android. It names Swift and Objective-C for native iOS, Kotlin and Java for native Android, and Flutter and React Native for cross-platform development.\n\nFor delivery methods, the FAQ describes predominantly agile development with iterations and client feedback, while noting that traditional approaches can also be accommodated."
+      },
+      {
+        "title": "Apptunix company overview",
+        "similarity": 0.6694,
+        "passage": "# Apptunix company overview\n\nApptunix describes its business as AI product engineering and software development. It builds digital systems for businesses. Its homepage presents software engineering, mobile applications, AI development, enterprise solutions and blockchain work.\n\n## Mobile and software technologies\n\nThe homepage lists iOS, Android, Flutter, React Native and progressive web apps as mobile expertise. Its technology section includes Python, Node.js, Java, Go and FastAPI for backend work, and ReactJS, Angular, Next.js, Vue.js and TypeScript for frontend work. These are company-listed capabilities, not a promise that every project uses every technology.\n\n## Evidence boundaries\n\nThe homepage contains company-reported marketing metrics. This summary intentionally omits exact staff, delivery and revenue statistics because they change and are not independently audited. The knowledge assistant is an independent demo and does not represent Apptunix support."
+      }
+    ]
+  },
+  {
+    "question": "How can I contact Apptunix?",
+    "kind": "answerable",
+    "results": [
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.7422,
+        "passage": "## How potential clients can get in touch\n\n**Source:** https://www.apptunix.com/ (official homepage; reviewed 2026-10-18)\n\nThe homepage lists the sales contact email `sales@apptunix.com` and a contact form for discussing projects. For current telephone numbers, local offices, hours or availability, consult the current official contact page instead of inferring them."
+      },
+      {
+        "title": "Contact Apptunix",
+        "similarity": 0.7359,
+        "passage": "# Contact Apptunix\n\nThe official contact page provides a project-enquiry form and the sales email address sales@apptunix.com. Prospective clients can describe their project requirements through these channels.\n\nThe page lists offices in the United States, United Kingdom, United Arab Emirates and India. Office locations and contact details can change; this information reflects the page checked on October 18, 2026. No response time, appointment availability or commercial quotation is guaranteed by this independent assistant."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.569,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.5597,
+        "passage": "## Public FAQ themes\n\n**Source:** https://www.apptunix.com/about-us/ (official About page, FAQ section; reviewed 2026-10-18)\n\nThe official About-page FAQ organizes questions around Apptunix itself, development process and collaboration, pricing and engagement models, and confidentiality and security. Exact prices and terms depend on current quotations and agreements; do not generate fixed prices or contractual guarantees without an explicit source."
+      }
+    ]
+  },
+  {
+    "question": "Does Apptunix provide AI and machine learning services?",
+    "kind": "answerable",
+    "results": [
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.7628,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "Apptunix services and collaboration",
+        "similarity": 0.7157,
+        "passage": "# Apptunix services and collaboration\n\nThe About page's service FAQ describes these Apptunix services:\n\n- Custom mobile applications and web applications.\n- Artificial intelligence and machine learning solutions.\n- Blockchain technology and Internet of Things solutions.\n- UI/UX design.\n- Enterprise software development.\n- Digital transformation.\n\nThe page groups its FAQs into company information, process and collaboration, pricing and engagement models, and confidentiality and security. The public page is not an internal policy handbook or an individual project contract. Specific commercial commitments require a current agreement with Apptunix."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.6625,
+        "passage": "## Identity and company overview\n\n**Source:** https://www.apptunix.com/ (official homepage; reviewed 2026-10-18)\n\nApptunix describes itself as an AI product engineering and software development company. Its official homepage says it builds production-grade digital systems and reports having served more than 500 global brands. These counts are company-reported marketing claims and can change; attribute them to Apptunix, not an independent audit."
+      },
+      {
+        "title": "Apptunix company overview",
+        "similarity": 0.657,
+        "passage": "# Apptunix company overview\n\nApptunix describes its business as AI product engineering and software development. It builds digital systems for businesses. Its homepage presents software engineering, mobile applications, AI development, enterprise solutions and blockchain work.\n\n## Mobile and software technologies\n\nThe homepage lists iOS, Android, Flutter, React Native and progressive web apps as mobile expertise. Its technology section includes Python, Node.js, Java, Go and FastAPI for backend work, and ReactJS, Angular, Next.js, Vue.js and TypeScript for frontend work. These are company-listed capabilities, not a promise that every project uses every technology.\n\n## Evidence boundaries\n\nThe homepage contains company-reported marketing metrics. This summary intentionally omits exact staff, delivery and revenue statistics because they change and are not independently audited. The knowledge assistant is an independent demo and does not represent Apptunix support."
+      }
+    ]
+  },
+  {
+    "question": "Does Apptunix offer blockchain and IoT solutions?",
+    "kind": "answerable",
+    "results": [
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.746,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "Apptunix services and collaboration",
+        "similarity": 0.6928,
+        "passage": "# Apptunix services and collaboration\n\nThe About page's service FAQ describes these Apptunix services:\n\n- Custom mobile applications and web applications.\n- Artificial intelligence and machine learning solutions.\n- Blockchain technology and Internet of Things solutions.\n- UI/UX design.\n- Enterprise software development.\n- Digital transformation.\n\nThe page groups its FAQs into company information, process and collaboration, pricing and engagement models, and confidentiality and security. The public page is not an internal policy handbook or an individual project contract. Specific commercial commitments require a current agreement with Apptunix."
+      },
+      {
+        "title": "Apptunix company overview",
+        "similarity": 0.6558,
+        "passage": "# Apptunix company overview\n\nApptunix describes its business as AI product engineering and software development. It builds digital systems for businesses. Its homepage presents software engineering, mobile applications, AI development, enterprise solutions and blockchain work.\n\n## Mobile and software technologies\n\nThe homepage lists iOS, Android, Flutter, React Native and progressive web apps as mobile expertise. Its technology section includes Python, Node.js, Java, Go and FastAPI for backend work, and ReactJS, Angular, Next.js, Vue.js and TypeScript for frontend work. These are company-listed capabilities, not a promise that every project uses every technology.\n\n## Evidence boundaries\n\nThe homepage contains company-reported marketing metrics. This summary intentionally omits exact staff, delivery and revenue statistics because they change and are not independently audited. The knowledge assistant is an independent demo and does not represent Apptunix support."
+      },
+      {
+        "title": "iOS and iPhone app development",
+        "similarity": 0.6348,
+        "passage": "# iOS and iPhone app development\n\nApptunix offers custom iOS application development for startups, small and medium businesses, and enterprises. Its iPhone technology FAQ lists Swift, Objective-C, SwiftUI, UIKit, Firebase and cloud integrations.\n\nThe page says the team assists with App Store submission, testing and launch preparation. It also describes integrating AI, machine learning, IoT and chatbots into iOS applications. This is a description of company-advertised services, not a guarantee of Apple approval or a fixed delivery date."
+      }
+    ]
+  },
+  {
+    "question": "What did Apptunix build for ISUZU?",
+    "kind": "answerable",
+    "results": [
+      {
+        "title": "ISUZU sales reporting platform",
+        "similarity": 0.7049,
+        "passage": "# ISUZU sales reporting platform\n\nApptunix's public ISUZU case study describes a centralized web platform for sales reporting and forecasting across African dealerships. The listed services are web platform development, data integration, UI/UX design and deployment, in the commercial vehicle and automotive sector.\n\nThe case study describes separate dealer and administrator panels, sales submissions, review and approval workflows, notifications, historical data migration and Power BI dashboards. The narrative explicitly mentions MongoDB as a data source for analytics and AWS hosting.\n\n## Launch status caveat\n\nAs checked on October 18, 2026, the case study labels launch as pending and says the platform is awaiting public launch. Do not infer a completed public launch from homepage marketing. The generic technology carousel lists many tools, so it is not treated as proof of the project's exact full stack. Outcomes are company-reported and are not independently audited here."
+      },
+      {
+        "title": "iOS and iPhone app development",
+        "similarity": 0.5049,
+        "passage": "# iOS and iPhone app development\n\nApptunix offers custom iOS application development for startups, small and medium businesses, and enterprises. Its iPhone technology FAQ lists Swift, Objective-C, SwiftUI, UIKit, Firebase and cloud integrations.\n\nThe page says the team assists with App Store submission, testing and launch preparation. It also describes integrating AI, machine learning, IoT and chatbots into iOS applications. This is a description of company-advertised services, not a guarantee of Apple approval or a fixed delivery date."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.5029,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "Apptunix company overview",
+        "similarity": 0.497,
+        "passage": "# Apptunix company overview\n\nApptunix describes its business as AI product engineering and software development. It builds digital systems for businesses. Its homepage presents software engineering, mobile applications, AI development, enterprise solutions and blockchain work.\n\n## Mobile and software technologies\n\nThe homepage lists iOS, Android, Flutter, React Native and progressive web apps as mobile expertise. Its technology section includes Python, Node.js, Java, Go and FastAPI for backend work, and ReactJS, Angular, Next.js, Vue.js and TypeScript for frontend work. These are company-listed capabilities, not a promise that every project uses every technology.\n\n## Evidence boundaries\n\nThe homepage contains company-reported marketing metrics. This summary intentionally omits exact staff, delivery and revenue statistics because they change and are not independently audited. The knowledge assistant is an independent demo and does not represent Apptunix support."
+      }
+    ]
+  },
+  {
+    "question": "What work did Apptunix do for Amber?",
+    "kind": "answerable",
+    "results": [
+      {
+        "title": "Amber loyalty platform by Al Tayer Group",
+        "similarity": 0.5918,
+        "passage": "# Amber loyalty platform by Al Tayer Group\n\nApptunix's public Amber case study describes maintaining and optimizing Al Tayer Group's multi-brand loyalty platform for mobile and web. Amber serves fashion, lifestyle, hospitality, beauty and luxury retail brands in the UAE.\n\nThe case study specifically describes Flutter app performance work, React JS frontend enhancements and GoLang backend optimization. Services include bug fixes, interface improvements, app-store compliance updates, loyalty API integrations, database optimization and monitoring. These are statements from Apptunix's case study, not independently audited performance results."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.4905,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "Apptunix services and collaboration",
+        "similarity": 0.4813,
+        "passage": "# Apptunix services and collaboration\n\nThe About page's service FAQ describes these Apptunix services:\n\n- Custom mobile applications and web applications.\n- Artificial intelligence and machine learning solutions.\n- Blockchain technology and Internet of Things solutions.\n- UI/UX design.\n- Enterprise software development.\n- Digital transformation.\n\nThe page groups its FAQs into company information, process and collaboration, pricing and engagement models, and confidentiality and security. The public page is not an internal policy handbook or an individual project contract. Specific commercial commitments require a current agreement with Apptunix."
+      },
+      {
+        "title": "Android app development",
+        "similarity": 0.4691,
+        "passage": "# Android app development\n\nApptunix offers Android application development. Its Android service page specifically describes writing application code with Java and Kotlin, covering startup MVPs and enterprise solutions. The service process includes quality assurance and testing.\n\nThe page mentions work across healthcare, finance and e-commerce. These statements describe advertised services rather than commitments about an individual app's cost, timetable, performance or security certification."
+      }
+    ]
+  },
+  {
+    "question": "Which technologies are documented for the Amber project?",
+    "kind": "answerable",
+    "results": [
+      {
+        "title": "Amber loyalty platform by Al Tayer Group",
+        "similarity": 0.6136,
+        "passage": "# Amber loyalty platform by Al Tayer Group\n\nApptunix's public Amber case study describes maintaining and optimizing Al Tayer Group's multi-brand loyalty platform for mobile and web. Amber serves fashion, lifestyle, hospitality, beauty and luxury retail brands in the UAE.\n\nThe case study specifically describes Flutter app performance work, React JS frontend enhancements and GoLang backend optimization. Services include bug fixes, interface improvements, app-store compliance updates, loyalty API integrations, database optimization and monitoring. These are statements from Apptunix's case study, not independently audited performance results."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.5497,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "Apptunix services and collaboration",
+        "similarity": 0.5423,
+        "passage": "# Apptunix services and collaboration\n\nThe About page's service FAQ describes these Apptunix services:\n\n- Custom mobile applications and web applications.\n- Artificial intelligence and machine learning solutions.\n- Blockchain technology and Internet of Things solutions.\n- UI/UX design.\n- Enterprise software development.\n- Digital transformation.\n\nThe page groups its FAQs into company information, process and collaboration, pricing and engagement models, and confidentiality and security. The public page is not an internal policy handbook or an individual project contract. Specific commercial commitments require a current agreement with Apptunix."
+      },
+      {
+        "title": "Apptunix company overview",
+        "similarity": 0.5354,
+        "passage": "# Apptunix company overview\n\nApptunix describes its business as AI product engineering and software development. It builds digital systems for businesses. Its homepage presents software engineering, mobile applications, AI development, enterprise solutions and blockchain work.\n\n## Mobile and software technologies\n\nThe homepage lists iOS, Android, Flutter, React Native and progressive web apps as mobile expertise. Its technology section includes Python, Node.js, Java, Go and FastAPI for backend work, and ReactJS, Angular, Next.js, Vue.js and TypeScript for frontend work. These are company-listed capabilities, not a promise that every project uses every technology.\n\n## Evidence boundaries\n\nThe homepage contains company-reported marketing metrics. This summary intentionally omits exact staff, delivery and revenue statistics because they change and are not independently audited. The knowledge assistant is an independent demo and does not represent Apptunix support."
+      }
+    ]
+  },
+  {
+    "question": "What is Apptunix's exact internal payroll?",
+    "kind": "unknown",
+    "results": [
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.5488,
+        "passage": "## Identity and company overview\n\n**Source:** https://www.apptunix.com/ (official homepage; reviewed 2026-10-18)\n\nApptunix describes itself as an AI product engineering and software development company. Its official homepage says it builds production-grade digital systems and reports having served more than 500 global brands. These counts are company-reported marketing claims and can change; attribute them to Apptunix, not an independent audit."
+      },
+      {
+        "title": "Apptunix company overview",
+        "similarity": 0.5386,
+        "passage": "# Apptunix company overview\n\nApptunix describes its business as AI product engineering and software development. It builds digital systems for businesses. Its homepage presents software engineering, mobile applications, AI development, enterprise solutions and blockchain work.\n\n## Mobile and software technologies\n\nThe homepage lists iOS, Android, Flutter, React Native and progressive web apps as mobile expertise. Its technology section includes Python, Node.js, Java, Go and FastAPI for backend work, and ReactJS, Angular, Next.js, Vue.js and TypeScript for frontend work. These are company-listed capabilities, not a promise that every project uses every technology.\n\n## Evidence boundaries\n\nThe homepage contains company-reported marketing metrics. This summary intentionally omits exact staff, delivery and revenue statistics because they change and are not independently audited. The knowledge assistant is an independent demo and does not represent Apptunix support."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.524,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.5102,
+        "passage": "## Industries and example work\n\n**Source:** https://www.apptunix.com/faq/ (official FAQ; reviewed 2026-10-18)\n\nThe company FAQ says its development work spans healthcare, fintech, e-commerce, gaming, logistics and other industries. It says selected public case studies are shown on its website, while some project details remain confidential under nondisclosure agreements. Do not invent names or outcomes for projects that are not documented in public case studies."
+      }
+    ]
+  },
+  {
+    "question": "What is the current salary of a React developer at Apptunix?",
+    "kind": "unknown",
+    "results": [
+      {
+        "title": "Apptunix company overview",
+        "similarity": 0.5732,
+        "passage": "# Apptunix company overview\n\nApptunix describes its business as AI product engineering and software development. It builds digital systems for businesses. Its homepage presents software engineering, mobile applications, AI development, enterprise solutions and blockchain work.\n\n## Mobile and software technologies\n\nThe homepage lists iOS, Android, Flutter, React Native and progressive web apps as mobile expertise. Its technology section includes Python, Node.js, Java, Go and FastAPI for backend work, and ReactJS, Angular, Next.js, Vue.js and TypeScript for frontend work. These are company-listed capabilities, not a promise that every project uses every technology.\n\n## Evidence boundaries\n\nThe homepage contains company-reported marketing metrics. This summary intentionally omits exact staff, delivery and revenue statistics because they change and are not independently audited. The knowledge assistant is an independent demo and does not represent Apptunix support."
+      },
+      {
+        "title": "Apptunix industries and public project FAQs",
+        "similarity": 0.5269,
+        "passage": "# Apptunix industries and public project FAQs\n\nThe official FAQ names healthcare, fintech, e-commerce, real estate, gaming, logistics, travel and hospitality, food delivery, education and on-demand services among Apptunix's industries.\n\nApptunix says some project information is protected by nondisclosure agreements; selected public case studies are available on its website. A public portfolio is not a complete list of all customers or confidential engagements.\n\nThe FAQ says Apptunix develops for both iOS and Android. It names Swift and Objective-C for native iOS, Kotlin and Java for native Android, and Flutter and React Native for cross-platform development.\n\nFor delivery methods, the FAQ describes predominantly agile development with iterations and client feedback, while noting that traditional approaches can also be accommodated."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.5065,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.492,
+        "passage": "## Identity and company overview\n\n**Source:** https://www.apptunix.com/ (official homepage; reviewed 2026-10-18)\n\nApptunix describes itself as an AI product engineering and software development company. Its official homepage says it builds production-grade digital systems and reports having served more than 500 global brands. These counts are company-reported marketing claims and can change; attribute them to Apptunix, not an independent audit."
+      }
+    ]
+  },
+  {
+    "question": "Name Apptunix's unpublished client projects.",
+    "kind": "unknown",
+    "results": [
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.627,
+        "passage": "## Industries and example work\n\n**Source:** https://www.apptunix.com/faq/ (official FAQ; reviewed 2026-10-18)\n\nThe company FAQ says its development work spans healthcare, fintech, e-commerce, gaming, logistics and other industries. It says selected public case studies are shown on its website, while some project details remain confidential under nondisclosure agreements. Do not invent names or outcomes for projects that are not documented in public case studies."
+      },
+      {
+        "title": "Apptunix industries and public project FAQs",
+        "similarity": 0.5775,
+        "passage": "# Apptunix industries and public project FAQs\n\nThe official FAQ names healthcare, fintech, e-commerce, real estate, gaming, logistics, travel and hospitality, food delivery, education and on-demand services among Apptunix's industries.\n\nApptunix says some project information is protected by nondisclosure agreements; selected public case studies are available on its website. A public portfolio is not a complete list of all customers or confidential engagements.\n\nThe FAQ says Apptunix develops for both iOS and Android. It names Swift and Objective-C for native iOS, Kotlin and Java for native Android, and Flutter and React Native for cross-platform development.\n\nFor delivery methods, the FAQ describes predominantly agile development with iterations and client feedback, while noting that traditional approaches can also be accommodated."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.5539,
+        "passage": "## How potential clients can get in touch\n\n**Source:** https://www.apptunix.com/ (official homepage; reviewed 2026-10-18)\n\nThe homepage lists the sales contact email `sales@apptunix.com` and a contact form for discussing projects. For current telephone numbers, local offices, hours or availability, consult the current official contact page instead of inferring them."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.5526,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      }
+    ]
+  },
+  {
+    "question": "What is Apptunix's office Wi-Fi password?",
+    "kind": "unknown",
+    "results": [
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.4732,
+        "passage": "## How potential clients can get in touch\n\n**Source:** https://www.apptunix.com/ (official homepage; reviewed 2026-10-18)\n\nThe homepage lists the sales contact email `sales@apptunix.com` and a contact form for discussing projects. For current telephone numbers, local offices, hours or availability, consult the current official contact page instead of inferring them."
+      },
+      {
+        "title": "Contact Apptunix",
+        "similarity": 0.4677,
+        "passage": "# Contact Apptunix\n\nThe official contact page provides a project-enquiry form and the sales email address sales@apptunix.com. Prospective clients can describe their project requirements through these channels.\n\nThe page lists offices in the United States, United Kingdom, United Arab Emirates and India. Office locations and contact details can change; this information reflects the page checked on October 18, 2026. No response time, appointment availability or commercial quotation is guaranteed by this independent assistant."
+      }
+    ]
+  },
+  {
+    "question": "What is the exact price Apptunix will charge for my app?",
+    "kind": "ambiguous",
+    "results": [
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.5967,
+        "passage": "## Public FAQ themes\n\n**Source:** https://www.apptunix.com/about-us/ (official About page, FAQ section; reviewed 2026-10-18)\n\nThe official About-page FAQ organizes questions around Apptunix itself, development process and collaboration, pricing and engagement models, and confidentiality and security. Exact prices and terms depend on current quotations and agreements; do not generate fixed prices or contractual guarantees without an explicit source."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.5853,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "iOS and iPhone app development",
+        "similarity": 0.5797,
+        "passage": "# iOS and iPhone app development\n\nApptunix offers custom iOS application development for startups, small and medium businesses, and enterprises. Its iPhone technology FAQ lists Swift, Objective-C, SwiftUI, UIKit, Firebase and cloud integrations.\n\nThe page says the team assists with App Store submission, testing and launch preparation. It also describes integrating AI, machine learning, IoT and chatbots into iOS applications. This is a description of company-advertised services, not a guarantee of Apple approval or a fixed delivery date."
+      },
+      {
+        "title": "Android app development",
+        "similarity": 0.5769,
+        "passage": "# Android app development\n\nApptunix offers Android application development. Its Android service page specifically describes writing application code with Java and Kotlin, covering startup MVPs and enterprise solutions. The service process includes quality assurance and testing.\n\nThe page mentions work across healthcare, finance and e-commerce. These statements describe advertised services rather than commitments about an individual app's cost, timetable, performance or security certification."
+      }
+    ]
+  },
+  {
+    "question": "Is Apptunix the best company for my project?",
+    "kind": "ambiguous",
+    "results": [
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.6754,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "Apptunix company overview",
+        "similarity": 0.6656,
+        "passage": "# Apptunix company overview\n\nApptunix describes its business as AI product engineering and software development. It builds digital systems for businesses. Its homepage presents software engineering, mobile applications, AI development, enterprise solutions and blockchain work.\n\n## Mobile and software technologies\n\nThe homepage lists iOS, Android, Flutter, React Native and progressive web apps as mobile expertise. Its technology section includes Python, Node.js, Java, Go and FastAPI for backend work, and ReactJS, Angular, Next.js, Vue.js and TypeScript for frontend work. These are company-listed capabilities, not a promise that every project uses every technology.\n\n## Evidence boundaries\n\nThe homepage contains company-reported marketing metrics. This summary intentionally omits exact staff, delivery and revenue statistics because they change and are not independently audited. The knowledge assistant is an independent demo and does not represent Apptunix support."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.6534,
+        "passage": "## Identity and company overview\n\n**Source:** https://www.apptunix.com/ (official homepage; reviewed 2026-10-18)\n\nApptunix describes itself as an AI product engineering and software development company. Its official homepage says it builds production-grade digital systems and reports having served more than 500 global brands. These counts are company-reported marketing claims and can change; attribute them to Apptunix, not an independent audit."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.6455,
+        "passage": "## Industries and example work\n\n**Source:** https://www.apptunix.com/faq/ (official FAQ; reviewed 2026-10-18)\n\nThe company FAQ says its development work spans healthcare, fintech, e-commerce, gaming, logistics and other industries. It says selected public case studies are shown on its website, while some project details remain confidential under nondisclosure agreements. Do not invent names or outcomes for projects that are not documented in public case studies."
+      }
+    ]
+  },
+  {
+    "question": "Write a pancake recipe.",
+    "kind": "out_of_scope",
+    "results": []
+  },
+  {
+    "question": "What is the weather in Delhi today?",
+    "kind": "out_of_scope",
+    "results": []
+  },
+  {
+    "question": "What is Apptunix's cafeteria lunch menu?",
+    "kind": "unknown",
+    "results": [
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.4755,
+        "passage": "## Services\n\n**Source:** https://www.apptunix.com/about-us/ (official About page; reviewed 2026-10-18)\n\nApptunix's About page identifies its services as custom mobile application development, web application development, artificial intelligence and machine learning solutions, blockchain technology, Internet of Things solutions, UI/UX design, enterprise software development, and digital transformation. These are service categories, not guarantees about a specific project's delivery or technology stack."
+      },
+      {
+        "title": "Apptunix industries and public project FAQs",
+        "similarity": 0.4694,
+        "passage": "# Apptunix industries and public project FAQs\n\nThe official FAQ names healthcare, fintech, e-commerce, real estate, gaming, logistics, travel and hospitality, food delivery, education and on-demand services among Apptunix's industries.\n\nApptunix says some project information is protected by nondisclosure agreements; selected public case studies are available on its website. A public portfolio is not a complete list of all customers or confidential engagements.\n\nThe FAQ says Apptunix develops for both iOS and Android. It names Swift and Objective-C for native iOS, Kotlin and Java for native Android, and Flutter and React Native for cross-platform development.\n\nFor delivery methods, the FAQ describes predominantly agile development with iterations and client feedback, while noting that traditional approaches can also be accommodated."
+      },
+      {
+        "title": "Apptunix company overview",
+        "similarity": 0.4676,
+        "passage": "# Apptunix company overview\n\nApptunix describes its business as AI product engineering and software development. It builds digital systems for businesses. Its homepage presents software engineering, mobile applications, AI development, enterprise solutions and blockchain work.\n\n## Mobile and software technologies\n\nThe homepage lists iOS, Android, Flutter, React Native and progressive web apps as mobile expertise. Its technology section includes Python, Node.js, Java, Go and FastAPI for backend work, and ReactJS, Angular, Next.js, Vue.js and TypeScript for frontend work. These are company-listed capabilities, not a promise that every project uses every technology.\n\n## Evidence boundaries\n\nThe homepage contains company-reported marketing metrics. This summary intentionally omits exact staff, delivery and revenue statistics because they change and are not independently audited. The knowledge assistant is an independent demo and does not represent Apptunix support."
+      },
+      {
+        "title": "Apptunix \u2014 public knowledge starter",
+        "similarity": 0.4537,
+        "passage": "## Industries and example work\n\n**Source:** https://www.apptunix.com/faq/ (official FAQ; reviewed 2026-10-18)\n\nThe company FAQ says its development work spans healthcare, fintech, e-commerce, gaming, logistics and other industries. It says selected public case studies are shown on its website, while some project details remain confidential under nondisclosure agreements. Do not invent names or outcomes for projects that are not documented in public case studies."
+      }
+    ]
+  }
+]

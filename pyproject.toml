@@ -1,0 +1,11 @@
+[tool.pytest.ini_options]
+pythonpath = ["backend"]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+exclude = ["backend/.venv", "frontend/node_modules", ".agents"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]

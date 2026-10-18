@@ -1,0 +1,3 @@
+Use the design-with-intent skill. Read its full SKILL.md from .agents/skills/design-with-intent/ or .claude/skills/design-with-intent/ (or the installed global skill), then follow the relevant bundled references. Read DWI-BRIEF.md if present and reconcile it with DESIGN.md; my current request takes precedence.
+
+Mode: create. Build the scoped interface. Establish the audience and primary task, compare two structurally distinct visual directions, choose the strongest fit, define tokens, and implement a complete representative flow. Use product-specific content and a memorable visual idea. Verify responsive layout, keyboard interaction, and loading, empty, error, and success states. Report what was actually tested.

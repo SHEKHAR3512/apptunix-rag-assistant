@@ -1,0 +1,20 @@
+{
+  "name": "apptunix-rag-assistant",
+  "version": "1.0.0",
+  "description": "Apptunix Offline RAG Assistant — Local Knowledge Desk",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/start-all.mjs",
+    "dev": "node scripts/start-all.mjs",
+    "start:no-open": "node scripts/start-all.mjs --no-open",
+    "backend": "cd backend && .venv\\Scripts\\python.exe -m uvicorn app.main:app --host 127.0.0.1 --port 8000",
+    "frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "test": "cd frontend && npm test",
+    "test:backend": "backend\\.venv\\Scripts\\python.exe -m pytest -q",
+    "test:browser": "cd frontend && node tests/browser.mjs",
+    "test:live": "cd frontend && node tests/browser.mjs --live",
+    "evaluate": "backend\\.venv\\Scripts\\python.exe scripts/evaluate.py"
+  }
+}
